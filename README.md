@@ -1,4 +1,4 @@
-Abstract - The paper presents a novel approach to developing
+Abstract – The paper presents a novel approach to developing
 a pair trading strategy for cryptocurrencies by employing a
 customized Rainbow DQN and an image encoding technique.
 This method transforms candlestick features of Bitcoin (BTC)
