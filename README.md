@@ -1,3 +1,4 @@
+link to paper (IEEE USA) https://ieeexplore.ieee.org/document/10417967
 Abstract – The paper presents a novel approach to developing
 a pair trading strategy for cryptocurrencies by employing a
 customized Rainbow DQN and an image encoding technique.
